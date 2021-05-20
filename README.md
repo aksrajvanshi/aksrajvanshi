@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Akshay!
 
 - Software Development Engineer at AWS
 - 🔭 I’m currently working on Sagemaker Training 
