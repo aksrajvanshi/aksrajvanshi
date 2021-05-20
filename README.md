@@ -2,6 +2,7 @@
 
 - Software Development Engineer at AWS
 - 🔭 I’m currently working on Sagemaker Training 
+- Framework Adaptation Author of the D2L book from DJL team (written in Java) (https://d2l.djl.ai/)
 - Use DJL-Serving to run inference on trained Deep Learning Models (https://github.com/deepjavalibrary/djl/tree/master/serving/serving)
 - Also available as a brew package now! Check it out: https://formulae.brew.sh/formula/djl-serving
 - Loves to know and read about new developments going on in the world of CS (or anything in general!)
