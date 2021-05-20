@@ -1,11 +1,20 @@
 ### Hi there 👋
 
+- Software Development Engineer at AWS
+- 🔭 I’m currently working on Sagemaker Training 
+- Use DJL-Serving to run inference on trained Deep Learning Models (https://github.com/deepjavalibrary/djl/tree/master/serving/serving)
+- Also available as a brew package now! Check it out: https://formulae.brew.sh/formula/djl-serving
+- Loves to know and read about new developments going on in the world of CS (or anything in general!)
+- ⚡ Fun fact: Do you know the Romans used to write U as V (like BVILDING). Hence, W is prounounced as "double-U" 😄 
+- 📫 How to reach me: 8126508998 or akshayrajvanshi1992@gmail.com
+
+
 <!--
 **aksrajvanshi/aksrajvanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
