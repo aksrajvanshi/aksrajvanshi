@@ -8,7 +8,7 @@
 - Loves to know and read about new developments going on in the world of CS (or anything in general!)
 - ⚡ Fun fact: Do you know the Romans used to write U as V (like BVILDING). Hence, W is prounounced as "double-U" 😄 
 - 📫 How to reach me: 8126508998 or akshayrajvanshi1992@gmail.com
-- Profile views : ![](https://komarev.com/ghpvc/?username=aksrajvanshi)
+- Profile views : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faksrajvanshi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
