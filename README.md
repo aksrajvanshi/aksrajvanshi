@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Akshay!
 
 - Software Development Engineer at AWS
-- 🔭 I’m currently working on Sagemaker Training 
+- 🔭 I’m currently working on Aperture which allows teams inside AWS to create custom forms to consume data from their customers
+- Recently projects I've worked on - Customer Slack Notification System, Native Aperture Reporting. 
 - Framework Adaptation Author of the D2L book from DJL team (written in Java) (https://d2l.djl.ai/)
 - Use DJL-Serving to run inference on trained Deep Learning Models (https://github.com/deepjavalibrary/djl/tree/master/serving/serving)
 - Also available as a brew package now! Check it out: https://formulae.brew.sh/formula/djl-serving
